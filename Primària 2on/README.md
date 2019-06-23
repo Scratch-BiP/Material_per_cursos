@@ -1,1 +1,1 @@
-Material per a racons de bee-bots del curs 2on
+Material per a racons de bee-bots del curs segon
