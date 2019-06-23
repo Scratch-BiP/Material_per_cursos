@@ -1,2 +1,2 @@
-# Programaci-i-rob-tica-al-BiP
-Programació i robòtica al Busquets i Punset
+# Programació i robòtica al BiP
+Recursos de programació i robòtica al Busquets i Punset
