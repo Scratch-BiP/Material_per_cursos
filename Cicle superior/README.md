@@ -1,4 +1,4 @@
-# Material per a racons de bee-bots del curs sisÃ¨
+# Material de programació i robòtica a cicle superior
 
 Preparació per l'Scratch Challenge seguint els materials didàctics oficials:  
 
