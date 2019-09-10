@@ -1,22 +1,18 @@
 # Material per a ScratchJr a cicle inicial
 
-Curs Eduteka on es troba un currículum d'aula per ScratchJr dividit en tres seccions:
+A cicle inicial treballem ScratchJr amb aquests recursos:
 
-Introducció i tipus d'animació
+..* Curs Eduteka on es troba un currículum d'aula per ScratchJr dividit en tres seccions:
 
-Font: http://eduteka.icesi.edu.co/articulos/scratchjr-curriculo1
+1. Introducció i tipus d'animació. Font: http://eduteka.icesi.edu.co/articulos/scratchjr-curriculo1
 
-Coneixent l'entorn
+2. Patí de jocs. Font: http://eduteka.icesi.edu.co/articulos/scratchjr-curriculo2
 
-Font: http://eduteka.icesi.edu.co/articulos/scratchjr-curriculo2
+3. Lletres i números. Font: http://eduteka.icesi.edu.co/articulos/scratchjr-curriculo3
 
-Lletres i números
+..* També tenim nou senzilles targetes guiades d'activitats per Scratchjr
 
-Font: http://eduteka.icesi.edu.co/articulos/scratchjr-curriculo3
-
-També tenim nou senzilles targetes guiades d'activitats per Scratchjr
-
-L'app d'ScratchJr es troba disponible a les botigues de Google i Apple. També existeix una versió de l'app ScratchJr per a Windows que es pot trobar aquí:
+L'app d'ScratchJr es troba disponible a les botigues en línia de Google i Apple. També existeix una versió de l'app ScratchJr per a Windows que es pot trobar aquí:
 
 https://jfo8000.github.io/ScratchJr-Desktop/
 
