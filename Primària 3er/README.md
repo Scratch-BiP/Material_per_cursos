@@ -1,1 +1,1 @@
-Material per a racons de bee-bots del curs tercer
+Material i recursos per introduir l'entorn de programació visual per blocs Scratch al curs tercer
