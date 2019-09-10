@@ -1,4 +1,4 @@
-# Material i recursos per introduir l'entorn de programaci√≥ visual per blocs Scratch al curs tercer
+# Material per Scratch a cicle mitj‡
 
 Es tracta de deu paquets de targetes per a deu hores de projectes.
 

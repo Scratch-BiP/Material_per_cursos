@@ -1,4 +1,4 @@
-# Material per a ScratchJr a cicle inicial
+# Material per ScratchJr a cicle inicial
 
 A cicle inicial treballem ScratchJr amb aquests recursos:
 
