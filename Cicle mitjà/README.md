@@ -1,4 +1,4 @@
-# Material per Scratch a cicle mitjà
+# Material per aprendre Scratch a cicle mitjà
 
 Es recomana començar amb les targetes per aprendre Scratch. Aquesta sèrie de 12 targetes presenten de forma senzilla i amb exemples l'ús de blocs bàsics de programació.   Després es pot continuar l'aprenentatge amb el desenvolupament de deu projectes més elaborats. 
 
