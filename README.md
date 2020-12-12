@@ -1,5 +1,9 @@
 # Programació i robòtica al BiP
-Recursos de programació i robòtica al Busquets i Punset organitzats per cursos des de P3 de cicle infantil fins a sisè de primària.
+Recursos de programació i robòtica recopilats per la Comissió de Scratch i Robòtica de l'AFA Busquets i Punset. 
+Es troben organitzats per cursos des de P3 de cicle infantil fins a sisè de primària.
 
-A cicle infantil l'eina principal de treball són els robots abella bee-bots.
+- **Cicle infantil:** activitats amb els bee-bots (robots abella).
+- **Cicle inicial:**
+- **Cicle mitjà:**
+- **Cicle superior:**
 
