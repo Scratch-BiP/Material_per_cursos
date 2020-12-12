@@ -1,5 +1,3 @@
 # Material per a racons de bee-bots del curs P5
 
-Plantilles programació bee-bots
-
-ont: https://blocs.xtec.cat/roboticaalescola/files/2015/03/plantilla_ex.pdf
+MÃ©s propostes per practicar amb els bee-bots i plantilla per l'escriptura manual del programa pel bee-bot.
