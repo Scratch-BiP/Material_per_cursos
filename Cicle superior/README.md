@@ -1,10 +1,10 @@
-# Material de programaciÛ i robÚtica a cicle superior
+# Material de programaci√≥ i rob√≤tica a cicle superior
 
-PreparaciÛ per l'Scratch Challenge seguint els materials did‡ctics oficials:  
+Preparaci√≥ per l'Scratch Challenge seguint els materials did√†ctics oficials:  
 
 https://projectes.xtec.cat/programacioirobotica/curs-scratch-primaria/
 
-InscripciÛ:
+Informaci√≥ e inscripcions:
 
 https://mschools.mobileworldcapital.com/es/iniciativas/scratch-challenge/
 
