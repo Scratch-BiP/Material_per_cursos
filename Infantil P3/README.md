@@ -2,8 +2,8 @@
 
 Abans de presentar els bee-bots es recomana fer una petita activitat on l'alumne assumeixi el rol del bee-bot i els companys "programin" els seus moviments.
 
-TambÈ es troba aquÌ la presentaciÛ "Hola Bee-bot!" on es presenta que Ès un bee-bot aixÌ com la funciÛ de cadascun dels seus botons. TambÈ s'inclouen 5 activitats b‡siques que es poden realitzar amb les catifes numÈriques i la de colors.
+Tamb√© es troba aqu√≠ la presentaci√≥ "Hola Bee-bot!" on es presenta que √©s un bee-bot aix√≠ com la funci√≥ de cadascun dels seus botons. Tamb√© s'inclouen 5 activitats b√†siques que es poden realitzar amb les catifes num√©riques i la de colors.
 
-Per finalitzar anomenar que hi ha diferents emuladors que es poden utilitar a l'aula tot projectant-los a la pissarra digital. Per exemple,
+Hi ha diferents emuladors que es poden utilitar a l'aula tot projectant-los a la pissarra digital. Per exemple:
 
 https://www.terrapinlogo.com/emu/beebot.html?beebot_mat_alphabet
