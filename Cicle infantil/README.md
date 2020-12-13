@@ -9,3 +9,5 @@ Hi ha diferents emuladors que es poden utilitar a l'aula tot projectant-los a la
 https://www.terrapinlogo.com/emu/beebot.html?beebot_mat_alphabet
 
 El document del CRP de Pineda de Mar presenta gairebé una trentena de propostes classificades per nivell educatiu.
+
+A [P5](https://github.com/Scratch-BiP/Recursos/tree/master/Cicle%20infantil/P5) trobareu un seguit de propostes extres per practicar amb els bee-bots incloent una plantilla per practicar l'escriptura del programes pel bee-bot.
