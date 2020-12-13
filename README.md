@@ -1,10 +1,10 @@
-# :computer: Programació i robòtica al Busquets i Punset :robot:
+# 👩‍💻 Programació i robòtica al Busquets i Punset :robot:
 Recursos de programació i robòtica recopilats per la Comissió de Scratch i Robòtica de l'[AFA Busquets i Punset](https://ampabip.wordpress.com/).
 Es troben organitzats per cicles des de P3 fins a sisè curs de primària.
 
 ## :open_file_folder: Contingut
 
- 👩‍💻 Programming
+
 
 - **Cicle infantil (P3 a P5):** activitats amb bee-bots
 
