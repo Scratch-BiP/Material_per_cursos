@@ -7,3 +7,5 @@ També es troba aquí la presentació "Hola Bee-bot!" on es presenta que és un 
 Hi ha diferents emuladors que es poden utilitar a l'aula tot projectant-los a la pissarra digital. Per exemple:
 
 https://www.terrapinlogo.com/emu/beebot.html?beebot_mat_alphabet
+
+El document del CRP de Pineda de Mar presenta gairebé una trentena de propostes classificades per nivell educatiu.
