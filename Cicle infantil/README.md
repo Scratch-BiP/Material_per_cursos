@@ -1,4 +1,4 @@
-# Material per a racons de bee-bots del curs P3
+# Material per a racons de bee-bots del cicle infantil
 
 Abans de presentar els bee-bots es recomana fer una petita activitat on l'alumne assumeixi el rol del bee-bot i els companys "programin" els seus moviments.
 
