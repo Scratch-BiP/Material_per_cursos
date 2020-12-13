@@ -6,7 +6,7 @@ Es troben organitzats per cicles des de P3 fins a sisè curs de primària.
 
 
 
-- **Cicle infantil (P3 a P5):** activitats amb bee-bots
+- [**Cicle infantil (P3 a P5):**](https://github.com/Scratch-BiP/Recursos/tree/master/Cicle%20infantil) activitats amb bee-bots
 
 - **Cicle inicial (1er i 2on):** targetes i curs de ScratchJr, activitats amb Matatalab
 
