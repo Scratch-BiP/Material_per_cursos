@@ -1,4 +1,4 @@
-# :robot: Programació i robòtica al BiP
+# :robot: Programació i robòtica al BiP :books:
 Recursos de programació i robòtica recopilats per la Comissió de Scratch i Robòtica de l'AFA Busquets i Punset. 
 Es troben organitzats per cursos des de P3 de cicle infantil fins a sisè de primària.
 
