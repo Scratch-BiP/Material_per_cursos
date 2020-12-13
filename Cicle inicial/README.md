@@ -1,20 +1,35 @@
-# Material per ScratchJr a cicle inicial
+# ScratchJr i Matatalab a cicle inicial
+
+## ScratchJr
 
 A cicle inicial treballem ScratchJr amb aquests recursos:
 
-* Curs Eduteka on es troba un currÌculum d'aula per ScratchJr dividit en tres seccions:
+* Curs Eduteka on es troba un curr√≠culum d'aula per ScratchJr dividit en tres seccions:
 
-1. IntroducciÛ i tipus d'animaciÛ. Font: http://eduteka.icesi.edu.co/articulos/scratchjr-curriculo1
+1. Introducci√≥ i tipus d'animaci√≥. Font: http://eduteka.icesi.edu.co/articulos/scratchjr-curriculo1
 
-2. PatÌ de jocs. Font: http://eduteka.icesi.edu.co/articulos/scratchjr-curriculo2
+2. Pat√≠ de jocs. Font: http://eduteka.icesi.edu.co/articulos/scratchjr-curriculo2
 
-3. Lletres i n˙meros. Font: http://eduteka.icesi.edu.co/articulos/scratchjr-curriculo3
+3. Lletres i n√∫meros. Font: http://eduteka.icesi.edu.co/articulos/scratchjr-curriculo3
 
-* TambÈ tenim nou senzilles targetes guiades d'activitats per Scratchjr
+* Tamb√© tenim nou senzilles [targetes guiades](https://github.com/Scratch-BiP/Recursos/blob/master/Cicle%20inicial/Targetes-activitats-ScratchJr.pdf) d'activitats per ScratchJr
 
-L'app d'ScratchJr es troba disponible a les botigues en lÌnia de Google i Apple. TambÈ existeix una versiÛ de l'app ScratchJr per a Windows que es pot trobar aquÌ:
+L'app d'ScratchJr es troba disponible a les botigues en l√≠nia de Google i Apple. Tamb√© existeix una versi√≥ de l'app ScratchJr per a Windows que es pot trobar aqu√≠:
 
 https://jfo8000.github.io/ScratchJr-Desktop/
 
-Aquesta Ès la versiÛ que utilitzem per projectar a les pantalles digitals de manera que aquesta es converteix en una tablet gegant.
+Aquesta √©s la versi√≥ que utilitzem per projectar a les pantalles digitals de manera que aquesta es converteix en una tablet gegant.
 
+## Matatalab
+
+[Matatalab √©s un robot educatiu](https://sites.google.com/a/xtec.cat/robotica-garrigues/matatalab) que promou que els nens a partir de 4 anys aprenguin les bases de la programaci√≥ i gaudeixin de la seva creativitat  amb opcions de m√∫sica i dibuix. Tot aix√≤ sense utilitzar pantalles ni cap tipus de dispositius m√≤bils.
+
+- [Activitat Hello, Matatalab Robots!](https://matatalab.com/en/node/88)
+
+- [Draw Arabic numbers with Matatalab!](https://matatalab.com/en/node/87)
+
+- [Activitat Big eater](https://matatalab.com/en/node/80)
+
+- [Activitat Soccer Match](https://matatalab.com/en/node/81)
+
+Dins de la carpeta [Matatalab](https://github.com/Scratch-BiP/Recursos/tree/master/Cicle%20inicial/Activitats%20Matatalab) es troben els recursos auxiliars per aquestes activitats.
