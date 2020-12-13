@@ -12,7 +12,7 @@ A cicle inicial treballem ScratchJr amb aquests recursos:
 
 3. Lletres i números. Font: http://eduteka.icesi.edu.co/articulos/scratchjr-curriculo3
 
-* També tenim nou senzilles [targetes guiades](https://github.com/Scratch-BiP/Recursos/blob/master/Cicle%20inicial/Targetes-activitats-ScratchJr.pdf) d'activitats per Scratchjr
+* També tenim nou senzilles [targetes guiades](https://github.com/Scratch-BiP/Recursos/blob/master/Cicle%20inicial/Targetes-activitats-ScratchJr.pdf) d'activitats per ScratchJr
 
 L'app d'ScratchJr es troba disponible a les botigues en línia de Google i Apple. També existeix una versió de l'app ScratchJr per a Windows que es pot trobar aquí:
 
