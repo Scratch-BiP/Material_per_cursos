@@ -22,6 +22,8 @@ Aquesta és la versió que utilitzem per projectar a les pantalles digitals de m
 
 ## Matatalab
 
+[Matatalab és un robot educatiu](https://sites.google.com/a/xtec.cat/robotica-garrigues/matatalab) que promou que els nens a partir de 4 anys aprenguin les bases de la programació i gaudeixin de la seva creativitat  amb opcions de música i dibuix. Tot això sense utilitzar pantalles ni cap tipus de dispositius mòbils.
+
 - [Activitat Hello, Matatalab Robots!](https://matatalab.com/en/node/88)
 
 - [Draw Arabic numbers with Matatalab!](https://matatalab.com/en/node/87)
