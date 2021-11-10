@@ -6,6 +6,8 @@ A cicles superior es pot seguir treballant la programació en Scratch pensant en
 
 Aquí trobareu un [senzill manual](https://github.com/Scratch-BiP/Recursos/blob/master/Cicle%20superior/MicroBits/manual-de-programacion-microbit.pdf) per conèixer i fer les primeres pràctiques amb Micro:bit.
 
+També es poden trobar exemples de projectes per fer tallers i/o activitats com Tetris.
+
 ## Mbot
 
 El [kit de mBot](https://github.com/Scratch-BiP/Recursos/blob/master/Cicle%20superior/Mbots/practicas-mbot-javier-fernc3a1ndez-panadero-05-05-2017.pdf) ens permetrà construir el nostre propi robot des de zero. 
