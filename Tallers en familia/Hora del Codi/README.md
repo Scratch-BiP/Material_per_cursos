@@ -6,7 +6,7 @@ Des de l'AFA organitzem tallers basats en els continguts del portal https://hour
 
 ## ScratchJr
 
-ScratchJr és el germà petit d'[Scratch](https://scratch.mit.edu)!
+ScratchJr és el germà petit d'[Scratch](https://scratch.mit.edu)! És un llenguatge de programació i introducció que permet als nens petits (5-7 anys) crear les seves pròpies històries i jocs interactius. En el procés, aprenen a resoldre problemes, projectes de disseny, i expressar-se de manera creativa en l'equip.
 
 L'app d'ScratchJr es troba disponible a les botigues en línia de Google i Apple. També existeix una versió de l'app ScratchJr per a Windows que es pot trobar aquí:
 
